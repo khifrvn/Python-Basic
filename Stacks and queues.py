@@ -24,6 +24,7 @@ print(tumpukan)
 # ===========----
 
 # ---- Ini adalah teknik stacking
+# untuk queue
 print("Data sekarang: ", tumpukan)
 tumpukan.pop() # ----> menghilangkan data paling belakang
 print("Data sekarang: ", tumpukan)
