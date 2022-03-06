@@ -20,5 +20,6 @@ while guess_count < guess_limit:
         break
     else:
         print("Try again !")
+            # Output
 else:
     print("U fail !")
