@@ -10,6 +10,7 @@ print("format file: "+ im.format)
 print("ukuran file: "+ str(im.size))
 print("mode file: "+ im.mode)
 
+# show something
 im.show()
 print('a:', a)
 print('b:', b)
