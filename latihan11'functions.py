@@ -29,6 +29,7 @@ def luas_persegi(sisi):
     luas = sisi * sisi
     return luas
 
+# Print 
 print("luas persegi : ", luas_persegi(5))
 
 def volume_persegi(sisi):
