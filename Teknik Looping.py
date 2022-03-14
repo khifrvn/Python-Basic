@@ -17,7 +17,7 @@ kumpulanLagu = ['WKWKLand',
 for i, band in enumerate(nama_band):
     print(i, ':', band)
 
-# ZIP = menggabungkan list
+# ZIP = menggabungkan list.
 
 for band, lagu in zip(nama_band, kumpulanLagu):
     print(band, 'lagunya', lagu)
