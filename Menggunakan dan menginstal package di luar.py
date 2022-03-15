@@ -4,6 +4,7 @@ from PIL import Image
 a = np.array([1,2,3,4,5])
 b = np.array([1,2,3,4,5])
 
+# show imagee
 im = Image.open("braw.jpg")
 
 print("format file: "+ im.format)
