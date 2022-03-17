@@ -1,6 +1,7 @@
 names = ['John', 'Alex', 'Mosh', 'Rooney', 'Bob']
 names[0] = 'Dany' # for updated some list
 
+# give variabel
 print(names[0])
 print(names[-1])
 print(names[2:])
