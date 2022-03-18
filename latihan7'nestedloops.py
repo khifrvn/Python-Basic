@@ -9,6 +9,7 @@ print("=" * 30)
 
 numbers = [5,2,5,2,2]
 
+# perulangan
 for x_count in numbers:
     output = ''
     for count in range(x_count):
