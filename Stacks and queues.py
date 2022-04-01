@@ -1,4 +1,4 @@
-# ---- Ini adalah teknik
+# ---- Ini adalah 
 from collections import deque
 
 antrian = deque([1,2,4,5,6,7])
