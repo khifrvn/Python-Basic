@@ -1,4 +1,4 @@
-# sum
+# sum ( Pertambahan )
 def tambah(a, b):
     print(a, '+',b, '=',a+b)
 
