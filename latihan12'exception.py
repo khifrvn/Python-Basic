@@ -21,6 +21,5 @@ while True:
     except ZeroDivisionError:
         print("Error Zero")
 
-# comment 
 
 print('Harga Barang :', angka)
