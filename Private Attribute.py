@@ -25,6 +25,7 @@ class mahasiswa():
 
 
 # main program
+# main program
 otong = mahasiswa("Otong Surotong", 13332221)  #  ------> otong adalah mahasiswa (OBJEK)
 ucup = mahasiswa("Ucup kucup", 23332221)
 
