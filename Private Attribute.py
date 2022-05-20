@@ -2,7 +2,7 @@
 class mahasiswa():
     # nama = 'nama'  # ------> attribut
 
-    # untuk nilai default simpan disini
+    # untuk nilai default simpan disini YA
     __nilai = 0  # -------> Double __ (underscroe) berfungsi untuk private
     __jurusan = "Teknik informatika"
 
